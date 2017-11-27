@@ -1,0 +1,23 @@
+{
+    "bookname": "最全区块链资料合集",
+    "description": "最全区块链资料合集",
+    "language": "zh",
+    "keywords": [
+        "区块链大学",
+        "bitcoin",
+        "conseweb",
+        "blockchain",
+        "hyperledger",
+        "区块链"
+    ],
+
+    "homepage": "http://blockchain-university.github.io/paper",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "http://blockchain-university.github.io/bookplan.git"
+    },
+    "bugs": {
+        "url": "http://blockchain-university.github.io/bookplan/issues"
+    }
+}
